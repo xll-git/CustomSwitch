@@ -19,6 +19,9 @@
     CustomSwitch *CS = [[CustomSwitch alloc]initWithFrame:CGRectMake(100, 100, 0, 0)];
     CS.on = YES;
     [self.view addSubview:CS];
+    
+    // 测试信息
+    
 }
 
 
